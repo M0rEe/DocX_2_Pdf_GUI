@@ -12,3 +12,8 @@ the program has only 1 button that opens a file selector dialog to select a fold
 the proggram handles updating the gui while the conversion is being held with anohter thread in the background 
 
 ![image](https://github.com/user-attachments/assets/6bafd39f-1b5f-47a0-8939-6e75fec7d6ff)
+
+
+gif for demonstrating 
+
+![ezgif-2-799c7b5866](https://github.com/user-attachments/assets/a8f43975-5056-494d-a6cc-fc9a9ad8ee3d)
